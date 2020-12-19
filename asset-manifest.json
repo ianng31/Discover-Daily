@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Discover-Daily/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Discover-Daily/static/js/main.88d2f139.chunk.js",
+    "main.js.map": "/Discover-Daily/static/js/main.88d2f139.chunk.js.map",
+    "runtime-main.js": "/Discover-Daily/static/js/runtime-main.ff0598d0.js",
+    "runtime-main.js.map": "/Discover-Daily/static/js/runtime-main.ff0598d0.js.map",
+    "static/js/2.2af86482.chunk.js": "/Discover-Daily/static/js/2.2af86482.chunk.js",
+    "static/js/2.2af86482.chunk.js.map": "/Discover-Daily/static/js/2.2af86482.chunk.js.map",
+    "static/js/3.7d76b897.chunk.js": "/Discover-Daily/static/js/3.7d76b897.chunk.js",
+    "static/js/3.7d76b897.chunk.js.map": "/Discover-Daily/static/js/3.7d76b897.chunk.js.map",
+    "index.html": "/Discover-Daily/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Discover-Daily/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.2af86482.chunk.js.LICENSE.txt": "/Discover-Daily/static/js/2.2af86482.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Discover-Daily/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0598d0.js",
+    "static/js/2.2af86482.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.88d2f139.chunk.js"
+  ]
+}
